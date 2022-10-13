@@ -1,0 +1,14 @@
+C:\Users\Korisnik\source\repos\Hotel\Hotel.Model\bin\Debug\net6.0\Hotel.Model.deps.json
+C:\Users\Korisnik\source\repos\Hotel\Hotel.Model\bin\Debug\net6.0\Hotel.Model.runtimeconfig.json
+C:\Users\Korisnik\source\repos\Hotel\Hotel.Model\bin\Debug\net6.0\Hotel.Model.dll
+C:\Users\Korisnik\source\repos\Hotel\Hotel.Model\bin\Debug\net6.0\Hotel.Model.pdb
+C:\Users\Korisnik\source\repos\Hotel\Hotel.Model\obj\Debug\net6.0\Hotel.Model.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Hotel\Hotel.Model\obj\Debug\net6.0\Hotel.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\Hotel\Hotel.Model\obj\Debug\net6.0\Hotel.Model.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\Hotel\Hotel.Model\obj\Debug\net6.0\Hotel.Model.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\Hotel\Hotel.Model\obj\Debug\net6.0\Hotel.Model.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Hotel\Hotel.Model\obj\Debug\net6.0\Hotel.Model.dll
+C:\Users\Korisnik\source\repos\Hotel\Hotel.Model\obj\Debug\net6.0\refint\Hotel.Model.dll
+C:\Users\Korisnik\source\repos\Hotel\Hotel.Model\obj\Debug\net6.0\Hotel.Model.pdb
+C:\Users\Korisnik\source\repos\Hotel\Hotel.Model\obj\Debug\net6.0\Hotel.Model.genruntimeconfig.cache
+C:\Users\Korisnik\source\repos\Hotel\Hotel.Model\obj\Debug\net6.0\ref\Hotel.Model.dll
